@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "es6",
+    "target": "es6",
+    "checkJs": true,
+    "sourceMap": true,
+    "moduleResolution": "node"
+  },
+  "include": ["./src/**/*"],
+  "exclude": ["node_modules", "**/node_modules/*", "dist", ".cache"]/*,
+  "typeAcquisition": {
+    "include": ["p5"]
+  }*/
+}

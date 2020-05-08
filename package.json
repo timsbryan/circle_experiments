@@ -1,0 +1,19 @@
+{
+  "name": "circle_experiments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/p5": "^0.9.0",
+    "parcel-bundler": "^1.12.4"
+  },
+  "dependencies": {
+    "p5": "^1.0.0"
+  }
+}
